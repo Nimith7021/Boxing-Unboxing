@@ -1,0 +1,7 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\bin\Debug\BoxUnbox.exe.config
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\bin\Debug\BoxUnbox.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\bin\Debug\BoxUnbox.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\obj\Debug\BoxUnbox.csproj.AssemblyReference.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\obj\Debug\BoxUnbox.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\obj\Debug\BoxUnbox.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\BoxUnbox\obj\Debug\BoxUnbox.pdb
